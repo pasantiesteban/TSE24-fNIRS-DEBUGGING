@@ -1,12 +1,12 @@
 # TSE 2024 - Towards a Cognitive Model of Dynamic Debugging: Does Identifier Construction Matter?
-Purpose: Dataset and Stimuli
-
-# Table of Contents
 
 
+## Table of Contents
+
+Purpose
 
 
-# Paper Summary
+## Paper Summary
 
 Authors: Danniell Hu, Priscila Santiesteban, Madeline Endres, Westley Weimer
 
