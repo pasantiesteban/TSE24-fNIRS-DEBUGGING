@@ -5,10 +5,10 @@ We provide the stimuli and processed behavioral data (dataset) of our journal ar
 
 ## Table of Contents:
 
-- `/stimuli` : containts the Python probelms used for our experiment analysis. Numbers on file titles are associated with the Leetcode problem the solution was dervied by followed by the idenfier variable condition. "simple" corresponds to single-morpheme treatment, "complex" to multi-morpheme, "nonword" to psuedoword, and "original" to the unchanged varaible name.
-- `/debugging-phases-data` : contains pre-processed data of the dynamic phases transitioned by each participant. These transitions were derived using behavioral markers such as time of keystroke, window-switching, etc. For scripts that derive this phases analysis, please email the authors.
-- `/full-behavioral-data` : contains the CSV of all the behavioral data for each participant for each problem. This contains time (total and per debugging phase), keystroke behavior per problem, accuracy (numPass), reading ability scores, and other demographic information. For raw data, please contact the authors.
-- `Segmentation Protocol.pdf` : conatins a mapping and description of how phases of debugging were derived from the raw behavioral data. This may be useful for future work aiming to expland or improve on our dynamic debugging model.
+- `/stimuli` : contains the Python problems used for our experimental analysis. File names begin with the associated LeetCode problem number, followed by the identifier name condition. The identifier conditions are as follows: "simple" refers to single-morpheme variable names, "complex" to multi-morpheme variable names, "nonword" to pseudoword variable names, and "original" to the unmodified variable names.
+- `/debugging-phases-data` : contains pre-processed data reflecting the dynamic debugging phases each participant transitioned through. These transitions were derived using behavioral markers such as keystroke timing, window switching, and other interaction patterns. For access to the scripts used in this phase analysis, please contact the authors.
+- `/full-behavioral-data` : contains a CSV file with all behavioral data per participant per problem. This includes total and per-phase time, keystroke behavior, problem accuracy (numPass), reading ability scores, and other demographic information. For access to raw data, please reach out to the authors.
+- `Segmentation Protocol.pdf` : describes the mapping and methodology used to derive debugging phases from raw behavioral data. This document may be useful for researchers interested in extending or refining our dynamic debugging model.
 
 
 ## Paper Summary:
