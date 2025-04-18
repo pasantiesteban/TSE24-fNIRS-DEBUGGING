@@ -1,12 +1,14 @@
 # TSE 2024 - Towards a Cognitive Model of Dynamic Debugging: Does Identifier Construction Matter?
 
+## Purpose:
+We provide the stimuli and processed behavioral data (dataset) of our journal article. Stimuli are seperated by problem per treatment. If you would like the raw behavioral data, fNIRS (brain imaging) raw data, or analysis scripts, please email Priscila Santiesteban (pasanti@umich.edu).
 
-## Table of Contents
-
-Purpose
+## Table of Contents:
 
 
-## Paper Summary
+
+
+## Paper Summary:
 
 Authors: Danniell Hu, Priscila Santiesteban, Madeline Endres, Westley Weimer
 
