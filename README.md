@@ -8,7 +8,7 @@ We provide the stimuli and processed behavioral data (dataset) of our journal ar
 - `/stimuli` : containts the Python probelms used for our experiment analysis. Numbers on file titles are associated with the Leetcode problem the solution was dervied by followed by the idenfier variable condition. "simple" corresponds to single-morpheme treatment, "complex" to multi-morpheme, "nonword" to psuedoword, and "original" to the unchanged varaible name.
 - `/debugging-phases-data` : contains pre-processed data of the dynamic phases transitioned by each participant. These transitions were derived using behavioral markers such as time of keystroke, window-switching, etc. For scripts that derive this phases analysis, please email the authors.
 - `/full-behavioral-data` : contains the CSV of all the behavioral data for each participant for each problem. This contains time (total and per debugging phase), keystroke behavior per problem, accuracy (numPass), reading ability scores, and other demographic information. For raw data, please contact the authors.
-- `Segmentation Protocol.pdf` : conatins a mapping and descriptiong of how phases were derived from the raw behavioral data. This may be useful for replication of future work aiming to expland or improve on our dynamic debugging model.
+- `Segmentation Protocol.pdf` : conatins a mapping and description of how phases of debugging were derived from the raw behavioral data. This may be useful for future work aiming to expland or improve on our dynamic debugging model.
 
 
 ## Paper Summary:
